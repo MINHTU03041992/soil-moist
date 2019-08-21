@@ -14,9 +14,9 @@ WidgetLED PUMP(V0);
 #define SEND_UP_DATA_TM   10L 
 #define AUTO_CTRL_TM      60L 
 
-char auth[] = "Ep-9VTuA2CnOZn_nGE9O8fcibZyJpewm";
-char ssid[] = "106F3FF460AC";
-char pass[] = "vt20160930";
+char auth[] = "token blynk";
+char ssid[] = "wifi name";
+char pass[] = "wifi pass";
 
  int soilMoist = 0;
  int timePumpOn = 1; 
